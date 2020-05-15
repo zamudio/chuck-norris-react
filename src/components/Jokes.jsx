@@ -23,9 +23,11 @@ const Jokes = ({ jokes }) => {
             alt="Chuck Norris"
             className="img-thumbnail"
           />
-          {/* <h5 className="card-title">{"The NYT reports..."}</h5> */}
           <p className="card-text">{jokes.value}</p>
-          <a href="#" className="btn btn-primary">
+          <a
+            href="chuck-norris-jokes-react.netlify.app"
+            className="btn btn-primary"
+          >
             New joke?
           </a>
         </div>
