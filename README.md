@@ -19,10 +19,14 @@ Simply click the button to recieve a new joke.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
-
-<b>Built with</b>
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
+
+## Features
+- One Page Layout built with React
+- Styled with Bootstrap + Custom SCSS
+- Fully Responsive
+- Utilizes REST API
 
 ## Credits
 Thanks to [api.chucknorris.io](api.chucknorris.io)
