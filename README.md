@@ -15,6 +15,7 @@ I made this project to gain more experience with React and using APIs in react.
 
 <b>Built with</b>
 - [React](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## How to use?
 Go to [here](https://chuck-norris-jokes-react.netlify.app) for a live demo.
