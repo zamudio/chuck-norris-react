@@ -1,9 +1,11 @@
 ## Chuck Norris Jokes
 A React app styled with Bootstrap that pulls joke values from a Chuck Norris API.
 
-
 ## Motivation
 I made this project to gain more experience with React and using APIs in react.
+
+## Screenshot
+<img src="https://github.com/zamudio/chuck-norris-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
 Go to [here](https://chuck-norris-jokes-react.netlify.app) for a live demo.
@@ -15,9 +17,6 @@ Simply click the button to recieve a new joke.
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
- 
-## Screenshots
-<img src="https://github.com/zamudio/chuck-norris-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 
