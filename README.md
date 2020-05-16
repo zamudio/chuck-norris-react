@@ -9,7 +9,7 @@ I made this project to gain more experience with React and using APIs in react.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c55c4e77-8409-42fa-8c32-9a9815770596/deploy-status)](https://app.netlify.com/sites/chuck-norris-jokes-react/deploys)
  
 ## Screenshots
-![]()
+<img src="https://github.com/zamudio/chuck-norris-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 
